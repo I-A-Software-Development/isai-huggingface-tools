@@ -1,0 +1,12 @@
+/Users/alonedelshtein/code/isai-huggingface-tools/Entities/obj/Debug/net7.0/entities.csproj.AssemblyReference.cache
+/Users/alonedelshtein/code/isai-huggingface-tools/Entities/obj/Debug/net7.0/entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alonedelshtein/code/isai-huggingface-tools/Entities/obj/Debug/net7.0/entities.AssemblyInfoInputs.cache
+/Users/alonedelshtein/code/isai-huggingface-tools/Entities/obj/Debug/net7.0/entities.AssemblyInfo.cs
+/Users/alonedelshtein/code/isai-huggingface-tools/Entities/obj/Debug/net7.0/entities.csproj.CoreCompileInputs.cache
+/Users/alonedelshtein/code/isai-huggingface-tools/Entities/bin/Debug/net7.0/entities.deps.json
+/Users/alonedelshtein/code/isai-huggingface-tools/Entities/bin/Debug/net7.0/entities.dll
+/Users/alonedelshtein/code/isai-huggingface-tools/Entities/bin/Debug/net7.0/entities.pdb
+/Users/alonedelshtein/code/isai-huggingface-tools/Entities/obj/Debug/net7.0/entities.dll
+/Users/alonedelshtein/code/isai-huggingface-tools/Entities/obj/Debug/net7.0/refint/entities.dll
+/Users/alonedelshtein/code/isai-huggingface-tools/Entities/obj/Debug/net7.0/entities.pdb
+/Users/alonedelshtein/code/isai-huggingface-tools/Entities/obj/Debug/net7.0/ref/entities.dll

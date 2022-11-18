@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JO+nDpj5mVKUyQWzgGC/4C+EYMn2xbBGc0/AGuO7dfI=",
+  "Source": "HuggingFace-API",
+  "BasePath": "_content/HuggingFace-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
