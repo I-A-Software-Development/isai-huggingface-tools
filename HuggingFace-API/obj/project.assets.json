@@ -1147,17 +1147,17 @@
           }
         }
       },
-      "entities/1.0.0": {
+      "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "SixLabors.ImageSharp": "2.1.3"
         },
         "compile": {
-          "bin/placeholder/entities.dll": {}
+          "bin/placeholder/Entities.dll": {}
         },
         "runtime": {
-          "bin/placeholder/entities.dll": {}
+          "bin/placeholder/Entities.dll": {}
         }
       },
       "HuggingFace-Connectors/1.0.0": {
@@ -1165,10 +1165,10 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.0",
+          "Entities": "1.0.0",
           "Newtonsoft.Json": "13.0.1",
           "SixLabors.ImageSharp": "2.1.3",
-          "System.Net.Http": "4.3.4",
-          "entities": "1.0.0"
+          "System.Net.Http": "4.3.4"
         },
         "compile": {
           "bin/placeholder/HuggingFace-Connectors.dll": {}
@@ -4038,10 +4038,10 @@
         "system.threading.tasks.nuspec"
       ]
     },
-    "entities/1.0.0": {
+    "Entities/1.0.0": {
       "type": "project",
-      "path": "../Entities/entities.csproj",
-      "msbuildProject": "../Entities/entities.csproj"
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
     },
     "HuggingFace-Connectors/1.0.0": {
       "type": "project",
@@ -4057,6 +4057,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.0",
+      "Entities >= 1.0.0",
       "HuggingFace-Connectors >= 1.0.0",
       "Logger >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.0",
@@ -4093,6 +4094,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "/Users/alonedelshtein/code/isai-huggingface-tools/Entities/Entities.csproj": {
+              "projectPath": "/Users/alonedelshtein/code/isai-huggingface-tools/Entities/Entities.csproj"
+            },
             "/Users/alonedelshtein/code/isai-huggingface-tools/HuggingFace-Connectors/HuggingFace-Connectors.csproj": {
               "projectPath": "/Users/alonedelshtein/code/isai-huggingface-tools/HuggingFace-Connectors/HuggingFace-Connectors.csproj"
             },

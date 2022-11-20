@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alonedelshtein/code/isai-huggingface-tools/Entities/entities.csproj": {}
+    "/Users/alonedelshtein/code/isai-huggingface-tools/Entities/Entities.csproj": {}
   },
   "projects": {
-    "/Users/alonedelshtein/code/isai-huggingface-tools/Entities/entities.csproj": {
+    "/Users/alonedelshtein/code/isai-huggingface-tools/Entities/Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alonedelshtein/code/isai-huggingface-tools/Entities/entities.csproj",
-        "projectName": "entities",
-        "projectPath": "/Users/alonedelshtein/code/isai-huggingface-tools/Entities/entities.csproj",
+        "projectUniqueName": "/Users/alonedelshtein/code/isai-huggingface-tools/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/Users/alonedelshtein/code/isai-huggingface-tools/Entities/Entities.csproj",
         "packagesPath": "/Users/alonedelshtein/.nuget/packages/",
         "outputPath": "/Users/alonedelshtein/code/isai-huggingface-tools/Entities/obj/",
         "projectStyle": "PackageReference",

@@ -17,12 +17,12 @@
 /Users/alonedelshtein/code/isai-huggingface-tools/HuggingFace-API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/alonedelshtein/code/isai-huggingface-tools/HuggingFace-API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/alonedelshtein/code/isai-huggingface-tools/HuggingFace-API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/Users/alonedelshtein/code/isai-huggingface-tools/HuggingFace-API/bin/Debug/net7.0/entities.dll
+/Users/alonedelshtein/code/isai-huggingface-tools/HuggingFace-API/bin/Debug/net7.0/Entities.dll
 /Users/alonedelshtein/code/isai-huggingface-tools/HuggingFace-API/bin/Debug/net7.0/HuggingFace-Connectors.dll
 /Users/alonedelshtein/code/isai-huggingface-tools/HuggingFace-API/bin/Debug/net7.0/Logger.dll
 /Users/alonedelshtein/code/isai-huggingface-tools/HuggingFace-API/bin/Debug/net7.0/HuggingFace-Connectors.pdb
 /Users/alonedelshtein/code/isai-huggingface-tools/HuggingFace-API/bin/Debug/net7.0/Logger.pdb
-/Users/alonedelshtein/code/isai-huggingface-tools/HuggingFace-API/bin/Debug/net7.0/entities.pdb
+/Users/alonedelshtein/code/isai-huggingface-tools/HuggingFace-API/bin/Debug/net7.0/Entities.pdb
 /Users/alonedelshtein/code/isai-huggingface-tools/HuggingFace-API/obj/Debug/net7.0/HuggingFace-API.csproj.AssemblyReference.cache
 /Users/alonedelshtein/code/isai-huggingface-tools/HuggingFace-API/obj/Debug/net7.0/HuggingFace-API.GeneratedMSBuildEditorConfig.editorconfig
 /Users/alonedelshtein/code/isai-huggingface-tools/HuggingFace-API/obj/Debug/net7.0/HuggingFace-API.AssemblyInfoInputs.cache

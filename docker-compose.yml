@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  huggingface-api:
+    image: ${DOCKER_REGISTRY-}huggingfaceapi
+    build:
+      context: .
+      dockerfile: HuggingFace-API/Dockerfile

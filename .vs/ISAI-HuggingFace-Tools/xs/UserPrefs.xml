@@ -1,17 +1,32 @@
-﻿<Properties>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{11B7C436-49FD-4330-A652-A8B86F8EB83A}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HuggingFace-API/Properties/launchSettings.json">
+    <Files>
+      <File FileName="HuggingFace-API/Properties/launchSettings.json" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ISAI-HuggingFace-Tools" selected="True" />
+          <Node name="ISAI-HuggingFace-Tools" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="HuggingFace-API" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="PublishProfiles" expanded="True" />
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HuggingFace-API PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Entities/entities.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
 </Properties>

@@ -6,6 +6,6 @@
     <RootNamespace>Logger</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="NLog" Version="5.0.5"/>
+    <PackageReference Include="NLog" Version="5.0.5" />
   </ItemGroup>
 </Project>
