@@ -1,6 +1,6 @@
 FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS base
 WORKDIR /app
-EXPOSE 5080
+EXPOSE 50080
 #EXPOSE 8443
 
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
