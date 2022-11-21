@@ -1,6 +1,7 @@
 using HuggingFace.API.Extensions;
 using Microsoft.AspNetCore.HttpOverrides;
 using NLog;
+using Microsoft.AspNetCore.Authentication.Certificate;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +11,8 @@ builder.Services.ConfigureCors();
 builder.Services.ConfigureIISIntegration();
 builder.Services.ConfigureLoggerService();
 builder.Services.AddAutoMapper(typeof(Program));
+//builder.Services.AddAuthentication(CertificateAuthenticationDefaults.AuthenticationScheme)
+//    .AddCertificate();
 
 builder.Services.AddControllers();
 
@@ -22,7 +25,10 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
-
+else
+{
+    //app.UseAuthentication();
+}
 app.UseHttpsRedirection();
 
 app.UseStaticFiles();

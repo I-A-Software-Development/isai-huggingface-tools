@@ -44,3 +44,4 @@
 /Users/alonedelshtein/code/isai-huggingface-tools/HuggingFace-API/obj/Debug/net7.0/HuggingFace-API.pdb
 /Users/alonedelshtein/code/isai-huggingface-tools/HuggingFace-API/obj/Debug/net7.0/HuggingFace-API.genruntimeconfig.cache
 /Users/alonedelshtein/code/isai-huggingface-tools/HuggingFace-API/obj/Debug/net7.0/ref/HuggingFace-API.dll
+/Users/alonedelshtein/code/isai-huggingface-tools/HuggingFace-API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.Certificate.dll

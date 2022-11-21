@@ -25,4 +25,5 @@ RUN dotnet publish "HuggingFace-API.csproj" -c Release -o /app/publish /p:UseApp
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
+
 ENTRYPOINT ["dotnet", "HuggingFace-API.dll"]
