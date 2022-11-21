@@ -15,6 +15,7 @@ COPY ["Entities/Entities.csproj", "Entities/"]
 COPY ["Logger/Logger.csproj", "Logger/"]
 RUN mkdir /root/.nuget/packages
 RUN dotnet restore "HuggingFace-API/HuggingFace-API.csproj" --configfile "HuggingFace-API/NuGet.Config"
+
 COPY . .
 WORKDIR "/src/HuggingFace-API"
 RUN dotnet build "HuggingFace-API.csproj" -c Release -o /app/build
